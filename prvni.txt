@@ -1,2 +1,2 @@
-ahoj lidi
+ahoj lidi test masinka
 pridavam radek v ramci modre branche
