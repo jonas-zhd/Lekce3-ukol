@@ -1,2 +1,2 @@
-ahoj lidi test1
+ahoj lidi test masinka test1
 pridavam radek v ramci modre branche
